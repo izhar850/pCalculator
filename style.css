@@ -1,0 +1,19 @@
+body{
+    background-color:azure;
+
+}
+.frm{
+    margin-top: 50%;
+    background-color: rgb(219, 219, 219);
+    width: 500px;
+    padding: 50px;
+    border: 2px rgb(219, 219, 219) solid;
+    border-radius: 10px;
+    
+}
+.heading{
+    padding-left: 2px;
+}
+.bt{
+padding-left: 120px;
+}
